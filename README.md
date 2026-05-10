@@ -56,10 +56,3 @@ graph TD
     classDef tech fill:#171717,stroke:#ff8c42,stroke-width:2px,color:#fff;
     class A,B,C,D,E,F,G,H,I,J,K,L,M tech;
 ```
-
-## Setup Instructions
-
-1. Clone the repository.
-2. Install dependencies: `npm install`
-3. Start the development server: `npm run dev`
-4. To build for production: `npm run build`
