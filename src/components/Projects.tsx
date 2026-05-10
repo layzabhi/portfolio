@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Monitor, TerminalSquare, ExternalLink } from 'lucide-react';
+import { Monitor, ExternalLink } from 'lucide-react';
 
 const Projects: React.FC = () => {
   const [ref, inView] = useInView({
